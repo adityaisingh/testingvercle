@@ -10,9 +10,7 @@ const index = () => {
   return (
     <div>
       <Head>
-        <title>
-          OYO: India's Best Online Hotel Booking Site For Sanitized Stay.
-        </title>
+        <title>India Best Online Hotel Booking Site For Sanitized Stay</title>
       </Head>
       <Header />
       <Header2 />
