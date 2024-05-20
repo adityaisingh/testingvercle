@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const hotel = () => {
+const Hotel = () => {
   return (
     <div className=" w-full h-75 border  mt-5 rounded-l ">
       <div className="flex">
@@ -73,4 +73,4 @@ const hotel = () => {
   );
 };
 
-export default hotel;
+export default Hotel;
